@@ -1,3 +1,5 @@
+<img src="hello_c_gtk.svg" alt="hello_c_gtk" width="120">
+
 # Example of C GTK4 Crosscompile
 
 # Requirements for Debian 12
